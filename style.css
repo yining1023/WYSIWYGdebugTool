@@ -1,0 +1,10 @@
+#mousePosition{
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align: left;
+  padding: 5px;
+  height: 20px border: 1px solid #ddd;
+  width: 100px;
+  background-color: #b5dafd;
+}
